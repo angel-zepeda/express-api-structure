@@ -1,3 +1,11 @@
+# 1.0.0 (2024-08-19)
+
+
+### Bug Fixes
+
+* change update to updateOne ([1a1210b](https://github.com/angel-zepeda/express-api-structure/commit/1a1210bec6b8dad8c79f4ac12a36393af6abf932))
+* semantic url ([838826d](https://github.com/angel-zepeda/express-api-structure/commit/838826d6f55789417f53fe8c7655a6a42a718408))
+
 # [1.1.0](https://github.com/angel-zepeda/tcg-tournament-tracker-api/compare/v1.0.0...v1.1.0) (2023-04-11)
 
 
