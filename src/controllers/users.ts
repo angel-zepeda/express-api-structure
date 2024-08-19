@@ -71,7 +71,7 @@ class UserController {
       if (!match) return res.status(500).json({ message: 'Password incorrect, try again!' })
 
       const authToken = generateToken()
-      await user.update({ lastLoginAt: new Date().toISOString(), authToken })
+      await user.updateOne({ lastLoginAt: new Date().toISOString(), authToken })
 
       return res.status(200).json({ message: 'Signin successfull' })
     } catch (error) {
