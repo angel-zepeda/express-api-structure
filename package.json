@@ -51,5 +51,9 @@
     "semantic-release": "^24.1.0",
     "ts-jest": "^29.2.4",
     "ts-node-dev": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angel-zepeda/express-api-structure.git"
   }
 }
