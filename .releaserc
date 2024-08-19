@@ -1,5 +1,5 @@
 {
-  "repositoryUrl": "https://github.com/angel-zepeda/tcg-tournament-tracker-api.git",
+  "repositoryUrl": "https://github.com/angel-zepeda/express-api-structure.git",
   "branches": "main",
   "plugins": [
     "@semantic-release/commit-analyzer",
