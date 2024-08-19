@@ -4,4 +4,7 @@ Express TS API Starter
 - Cors
 - Typescript
 - ZOD
-- JWT
+- Basic token Auth
+- Semantic Release
+- Prettier
+- Eslint
